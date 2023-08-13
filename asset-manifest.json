@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextTask-React/static/css/main.073c9b0a.css",
+    "main.js": "/TextTask-React/static/js/main.a4944900.js",
+    "static/js/787.719ec76d.chunk.js": "/TextTask-React/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TextTask-React/index.html",
+    "main.073c9b0a.css.map": "/TextTask-React/static/css/main.073c9b0a.css.map",
+    "main.a4944900.js.map": "/TextTask-React/static/js/main.a4944900.js.map",
+    "787.719ec76d.chunk.js.map": "/TextTask-React/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a4944900.js"
+  ]
+}
